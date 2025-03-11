@@ -1,6 +1,8 @@
 ### Education
 MSc Business Analytics and Decision Sciences
 
+### Technical Skills: Python, SQL, R, PowerBI
+
 ### Work Experience
 
 
