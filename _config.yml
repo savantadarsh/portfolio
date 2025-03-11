@@ -1,5 +1,5 @@
 title: Adarsh Savant
-logo: assets/circular_headshot.png
+logo: /assets/circular_headshot.png
 #description: text below image
 show_downloads: false
 theme: jekyll-theme-minimal
