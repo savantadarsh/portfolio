@@ -16,10 +16,9 @@ Click [**here**](https://github.com/savantadarsh/SQL) for full report
 
 
 ### Certifications
-**Microsoft Office Specialist: Excel Associate (Office 2019)**
-Issuing Organization: Microsoft
-Issue Date: December, 2023
-Credential Link: https://www.credly.com/badges/14bbd20b-611c-49cd-8790-c23d01e0189f/linked_in_profile
+1. **Microsoft Office Specialist: Excel Associate (Office 2019)** [Credential Link](https://www.credly.com/badges/14bbd20b-611c-49cd-8790-c23d01e0189f/linked_in_profile)
+2. **SQL: Data Reporting and Analysis** [Credential Link](https://www.linkedin.com/learning/certificates/377288960a11c79cc7e3234af8529dba2c8a52334cb90df1e644831ab2275a2b)
+3. **Intermediate SQL: Data Reporting and Analysis** [Credential Link](https://www.linkedin.com/learning/certificates/d693f593adbd006453d9eaf6d3a352a7fe5ff4068ad9c04c86370832efd7b9c2)
 
 
 
