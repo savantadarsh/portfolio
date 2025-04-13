@@ -5,12 +5,9 @@ MSc Business Analytics and Decision Sciences - University of Leeds
 SQL, PowerBI, Microsoft Excel
 
 ### Projects
-- **CloudFlow Revenue and Retention Optimization**
+- **CloudFlow Revenue and Retention Optimization** (Click [**<u>here</u>**](https://github.com/savantadarsh/SQL) for full report)
   - This project uncovers key drivers of revenue and churn at a subscription-based B2B SaaS company to inform strategies for growth, retention, and conversion optimization.
   - Tools used: Microsoft Excel, MySQL, Power BI
-
-    Click [**<u>here</u>**](https://github.com/savantadarsh/SQL) for full report
-
 
 ### Certifications
 1. Microsoft Office Specialist: Excel Associate (Office 2019) [<u>Verify</u>](https://www.credly.com/badges/14bbd20b-611c-49cd-8790-c23d01e0189f/linked_in_profile)
