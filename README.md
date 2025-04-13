@@ -8,11 +8,7 @@ SQL, PowerBI, Microsoft Excel
 - **CloudFlow Revenue and Retention Optimization**
   - This project uncovers key drivers of revenue and churn at a subscription-based B2B SaaS company to inform strategies for growth, retention, and conversion optimization.
   - Tools used: Microsoft Excel, MySQL, Power BI
-
-Click [**<u>here</u>**](https://github.com/savantadarsh/SQL) for full report
-
-
-
+    Click [**<u>here</u>**](https://github.com/savantadarsh/SQL) for full report
 
 
 ### Certifications
